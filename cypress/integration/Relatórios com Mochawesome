@@ -1,0 +1,22 @@
+Relatórios com Mochawesome
+
+mocha -> lib de execução de testes
+
+Mochawesome -> formato de relatório nativo do cypress
+
+Mochawesome-report-generator -> gerar um relatório baseado em um .json
+    -> problema: um arquivo .json por cada spec
+
+Mochawesome-merge -> unifica o resultado de varios .json em um arquivo unico
+
+cypress-multi-reporters -> permite o uso de multiplos tipos de relatório
+ ao final da execução
+
+ Relatórios com Cucumber HTML reporters
+
+ cucumber-html-reporter -> gera um relatório html baseado nos arquivos cucumber
+
+ npm cache clean --force
+ https://qastack.com.br/programming/58756101/npm-err-errno-3221225477-error-in-node-when-making-a-query-using-oracledb
+
+ 
